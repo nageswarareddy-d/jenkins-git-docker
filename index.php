@@ -9,7 +9,7 @@ $today = date("d/m/Y");
 echo $today;
 echo "</br>"; 
 echo gethostname(); 
-?>
+>
 </body>
 </html>
 
